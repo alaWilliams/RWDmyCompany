@@ -1,6 +1,6 @@
 # RWDmyCompany
 
-https://astounding-axolotl-fd371a.netlify.app/
+https://effulgent-lolly-5330e9.netlify.app/
 
 It is the second final project of the HTML / CSS course. I created a responsive version of my company's website.
 
